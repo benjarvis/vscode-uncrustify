@@ -33,4 +33,9 @@ A default config file can automatically be created (see the [commands](#extensio
 
 ## Acknowledgements
 
+This extension has been forked from https://github.com/zachflower/vscode-uncrustify.  I depend on it and use it in cursor, which now uses
+the OpenVSX extension marketplace.   I've forked it so that I can publish it to that marketplace and continue to use it.
+
+Zachery Flower in turn forked it as follows:
+
 This extension was originally created and maintained by [@LaurentTreguier](https://github.com/LaurentTreguier). While it has since been archived and removed from the extension marketplace, I have relied heavily on it over the past few years and have chosen to resurrect it. To that end, any of the good stuff in this extension undoubtedly comes from the original maintainer's hard work, and I will do my best to honor that.
