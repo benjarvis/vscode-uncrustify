@@ -2,7 +2,7 @@
     "name": "uncrustify",
     "displayName": "Uncrustify",
     "description": "Code format using uncrustify",
-    "version": "3.1.0",
+    "version": "3.1.2",
     "publisher": "benjarvis",
     "license": "MIT",
     "homepage": "https://github.com/benjarvis/vscode-uncrustify",
