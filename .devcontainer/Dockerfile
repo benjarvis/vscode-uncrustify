@@ -4,4 +4,4 @@ RUN apt-get -y update && \
     apt-get -y --no-install-recommends upgrade && \
     apt-get -y --no-install-recommends install unminimize && \
     echo y | unminimize && \
-    apt-get -y --no-install-recommends install git npm
+    apt-get -y --no-install-recommends install git ssh npm
