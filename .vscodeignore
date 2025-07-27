@@ -1,4 +1,6 @@
 .vscode/**
+.devcontainer/**
+.github/**
 node_modules
 typings/**
 out/test/**
